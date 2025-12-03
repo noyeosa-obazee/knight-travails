@@ -70,7 +70,6 @@ function printResult(path) {
   console.log(`=> You made it in ${path.length - 1} moves! Here's your path:`);
   path.forEach((pos) => console.log(pos));
 }
-
 knightMoves([0, 0], [3, 3]);
 knightMoves([3, 3], [0, 0]);
 knightMoves([0, 0], [7, 7]);

@@ -14,4 +14,4 @@ Since the board can be visualized as a **Graph** (where squares are nodes and mo
 ## How to Run
 
 1. Clone the repo.
-2. Run `node knights.js`
+2. Run `node script.js` (edit test values with your preferred values)
